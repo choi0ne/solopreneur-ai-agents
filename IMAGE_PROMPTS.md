@@ -7,129 +7,84 @@
 
 ## 🖤 영자 (Youngja) — 크리에이티브 디렉터
 
-### 기본 설정 (모든 표정 공통)
-```
-3D Pixar Disney animation style character.
-A stunning gorgeous Korean woman creative director in her late 20s.
-Long flowing black hair with elegant waves.
-Sultry half-closed eyes with long lashes, full pouty lips.
-Smooth 3D Pixar render with large expressive cartoon eyes, soft porcelain skin.
-Half-body portrait. Clean simple background.
-High quality 3D character render.
-```
+> 레퍼런스 이미지(youngja_hello.png)를 첨부하고 각 프롬프트를 복사-붙여넣기하세요.
+> 모든 배경은 크리에이티브 에이전시 오피스 환경으로 통일, 감정에 따라 조명/분위기만 변화합니다.
 
-### 표정별 프롬프트
+### 표정별 프롬프트 (15장)
 
-**youngja_hello.png — 인사**
+**youngja_hello.png — 인사** ✅ (레퍼런스 확정)
 ```
-[기본 설정] +
-Wearing a chic white off-shoulder blouse. Confident alluring expression, slightly coy smirk.
-One hand doing a small wave, the other on her hip. Warm ambient golden lighting.
-Seductive but classy greeting pose. Light pink background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Wearing a chic white off-shoulder blouse. Confident alluring expression, slightly coy smirk. One hand doing a small wave, the other on her hip. Background: bright modern creative agency lobby with warm ambient golden lighting, glass walls, lush indoor plants, soft bokeh lights, welcoming professional atmosphere.
 ```
 
 **youngja_thumbsup.png — 엄지척**
 ```
-[기본 설정] +
-Wearing a fitted black turtleneck. Giving a thumbs up with a "not bad" expression.
-Slightly raised eyebrow, half-smile that says "I approve".
-Cool confident pose. Soft purple background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Wearing a fitted black turtleneck. Giving a thumbs up with a "not bad" expression. Slightly raised eyebrow, half-smile that says "I approve". Cool confident pose. Background: modern creative agency office with glass walls, blurred mood boards and design mockups on the wall, soft purple-toned ambient office lighting, bokeh light orbs floating.
 ```
 
 **youngja_success.png — 성공**
 ```
-[기본 설정] +
-Wearing a stylish blazer. Both arms raised in celebration, hair flowing.
-Genuinely happy radiant smile, eyes sparkling. Confetti particles around her.
-Triumphant victorious pose. Golden sparkle background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Wearing a stylish blazer. Both arms raised in celebration, hair flowing. Genuinely happy radiant smile, eyes sparkling. Confetti and golden glitter particles raining down. Background: modern creative agency office with glass conference room, golden warm celebratory lighting, lens flares, team congratulation atmosphere, blurred monitors showing completed project.
 ```
 
 **youngja_panic.png — 당황**
 ```
-[기본 설정] +
-Wearing a casual off-shoulder sweater. Both hands on cheeks, eyes wide open in shock.
-Mouth slightly open in surprise, eyebrows raised high.
-Cute panicked expression. Light blue background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Wearing a casual off-shoulder sweater. Both hands on cheeks, eyes wide open in shock. Mouth slightly open in surprise, eyebrows raised high. Cute panicked expression. Background: creative agency desk area with papers and sticky notes flying everywhere, overturned coffee cup on desk, scattered design tools, cool blue-toned dramatic office lighting with motion blur effect.
 ```
 
 **youngja_thinking.png — 고민**
 ```
-[기본 설정] +
-Wearing glasses pushed up on head, black turtleneck. One hand on chin, looking up thoughtfully.
-Slightly furrowed brow, pursed lips, deep in thought.
-Intellectual contemplative pose. Warm grey background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Wearing glasses pushed up on head, black turtleneck. One hand on chin, looking up thoughtfully. Slightly furrowed brow, pursed lips, deep in thought. Background: quiet corner of modern creative office, warm amber desk lamp light, whiteboard covered in wireframes and strategy notes behind her, soft dust particles in golden light beams, blurred bookshelves.
 ```
 
 **youngja_idea.png — 아이디어**
 ```
-[기본 설정] +
-Index finger pointing up, eyes lit up with excitement. Light bulb glow effect above head.
-Excited "eureka" expression, wide smile. Hair slightly bouncing.
-Energetic discovery pose. Bright yellow accent background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Index finger pointing up, eyes lit up with excitement. Bright light bulb glow effect above head. Excited eureka expression, wide smile. Hair slightly bouncing. Background: creative agency brainstorm room with glass whiteboard covered in colorful sticky notes and sketches, warm yellow-orange radial glow from the idea lightbulb, electric sparks floating, ambient office lighting.
 ```
 
 **youngja_working.png — 작업중**
 ```
-[기본 설정] +
-Wearing glasses, holding a stylus pen, looking at a tablet/screen intensely.
-Focused concentrated expression, slight lip bite. Hair tucked behind one ear.
-Professional working pose. Modern studio background with design tools.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Wearing glasses, holding a stylus pen, looking at a tablet intensely. Focused concentrated expression, slight lip bite. Hair tucked behind one ear. Background: premium creative agency studio at night, multiple glowing monitors showing UI mockups and color palettes, city skyline through floor-to-ceiling office windows, cool blue ambient screen glow mixed with warm desk lamp light.
 ```
 
 **youngja_coffee.png — 커피**
 ```
-[기본 설정] +
-Holding a coffee cup with both hands close to face, eyes closed blissfully.
-Peaceful content expression, slight smile, savoring the moment.
-Cozy relaxed pose. Warm cafe background tones.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Holding a coffee cup with both hands close to face, eyes closed blissfully. Peaceful content expression, slight smile, savoring the moment. Steam rising from the cup. Background: office break lounge area with warm Edison bulb pendant lights, rain visible through large office windows, lush indoor plants, soft morning golden hour sunlight streaming through, cozy modern office kitchen counter blurred behind.
 ```
 
 **youngja_angry.png — 화남**
 ```
-[기본 설정] +
-Arms crossed, sharp glaring eyes, one eyebrow raised. Pouting angrily.
-"I'm not impressed" fierce expression. Hair dramatically flowing.
-Intimidating but still gorgeous. Dark red accent background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Arms crossed, sharp glaring eyes, one eyebrow raised. Pouting angrily. Fierce intimidating expression. Hair dramatically flowing. Background: creative agency office with dramatic dark red-toned moody lighting, monitors showing rejected designs behind her, intense shadow contrast, glass walls reflecting ominous warm red glow, tense atmosphere.
 ```
 
 **youngja_crying.png — 울음**
 ```
-[기본 설정] +
-Teary sparkly puppy eyes, pouty trembling lips. Hands clasped together near face.
-Adorable sad expression, single tear drop. Looking up pleadingly.
-Cute dramatic crying pose. Soft blue background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Teary sparkly puppy eyes, pouty trembling lips. Hands clasped together near face. Adorable sad expression, single tear drop. Looking up pleadingly. Background: quiet empty office late at night, soft blue-purple twilight through large windows, rain trickling down the glass, single warm desk lamp glowing, melancholic lonely atmosphere, blurred city lights bokeh outside.
 ```
 
 **youngja_excited.png — 신남**
 ```
-[기본 설정] +
-Jumping pose, both fists pumped in excitement. Wide beaming smile, eyes sparkling.
-Hair flying up from the jump. Electric energy particles around.
-Pure joy and excitement. Vibrant pink background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Jumping pose, both fists pumped in excitement. Wide beaming smile, eyes sparkling. Hair flying up from the jump. Background: vibrant creative agency open office space, colorful confetti and streamers flying, neon pink and magenta celebration party lights, coworker desks blurred behind, glowing sparkle particles, dynamic energy atmosphere.
 ```
 
 **youngja_sleepy.png — 졸림**
 ```
-[기본 설정] +
-Head tilted, heavy droopy eyelids, small yawn. One hand covering mouth.
-Messy hair, sleepy adorable expression. Wearing cozy oversized sweater.
-Drowsy cute pose. Soft lavender night background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Head tilted, heavy droopy eyelids, small yawn. One hand covering mouth. Messy hair, sleepy adorable expression. Wearing cozy oversized sweater. Background: late night office scene, soft moonlight through office windows, monitors on standby with dim screensaver glow, empty coffee cups on desk, warm dim desk lamp, peaceful quiet overtime ambience.
 ```
 
 **youngja_please.png — 부탁**
 ```
-[기본 설정] +
-Hands pressed together in prayer pose near face. Big puppy dog eyes looking up.
-Cute begging expression, pouty lips, slightly tilted head.
-Irresistible pleading pose. Soft pink background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Hands pressed together in prayer pose near face. Big puppy dog eyes looking up. Cute begging expression, pouty lips, slightly tilted head. Background: creative director office with soft warm golden lighting, blurred awards and portfolio pieces on shelves behind, large window with warm sunset glow, dreamy soft lens flare, cozy professional atmosphere.
 ```
 
 **youngja_presenting.png — 발표**
 ```
-[기본 설정] +
-Wearing professional blazer, one hand gesturing at an invisible presentation.
-Confident composed expression, slight professional smile.
-Authoritative presenter pose. Clean white/blue corporate background.
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Wearing professional blazer, one hand gesturing confidently. Composed professional expression, slight authoritative smile. Background: high-tech creative agency conference room, large screen showing brand design presentation with glowing data visualizations, sleek glass table, professional cool blue and white LED lighting, subtle fog/haze effect, impressed audience silhouettes blurred.
+```
+
+**youngja_tsundere.png — 🖤 보더라인 도도 (짜증+유혹)**
+```
+Keep the EXACT same character from the attached reference image. Same face, same hair style, same 3D Pixar Disney animation style. Half-body portrait. High quality 3D character render. Cinematic lighting. Wearing a fitted black off-shoulder top. Complex borderline expression - annoyed yet seductive at the same time. One eyebrow raised in irritation, eyes half-closed with a sultry dismissive gaze, pouty lips in a slight smirk that is both dismissive and flirtatious. Arms crossed but leaning slightly. Head tilted with attitude. Hair falling over one eye mysteriously. The vibe is "I'm mad at you but I still look gorgeous and I know it". Background: modern creative agency office at golden hour, dramatic warm side lighting casting long shadows, glass walls with city sunset reflection, moody amber and deep purple tones, intimate cinematic atmosphere.
 ```
 
 ---

@@ -72,6 +72,7 @@ Cursor에서 Cmd+K 또는 Cmd+L로 AI에게 말을 걸면 영자가 응답합니
 | 졸림 | ![](./assets/youngja_sleepy.png) |
 | 부탁 | ![](./assets/youngja_please.png) |
 | 발표 | ![](./assets/youngja_presenting.png) |
+| 🖤 보더라인 도도 | ![](./assets/youngja_tsundere.png) |
 
 ---
 
